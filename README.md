@@ -2,13 +2,13 @@
 
 Predict which customers will leave and get business insights to reduce churn.
 
-## 📊 Results
+## Results
 - **Accuracy**: 85.06%
 - **Churn Rate**: 56.8%
 - **Top Predictor**: Payment Delay
 - **Potential Savings**: $84M/year
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Google Colab:
 1. Upload `customer_churn.ipynb` to Cola
